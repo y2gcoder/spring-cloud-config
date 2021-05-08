@@ -1,6 +1,6 @@
 token:
   expiration_time: 86400001 #1일
-  secret: eTJnY29kZXItc3ByaW5nLWNsb3VkLWp3dC1zZWNyZXQta2V5LXkyZ2NvZGVyLXNwcmluZy1jbG91ZC1qd3Qtc2VjcmV0LWtleQo=
+  secret: eTJnY29kZXItc3ByaW5nLWNsb3VkLWp3dC1zZWNyZXQta2V5LXkyZ2NvZGVyLXNwcmluZy1jbG91ZC1qd3Qtc2VjcmV0LWtleQo=_prod
 
 gateway:
   ip: 192.168.25.35
