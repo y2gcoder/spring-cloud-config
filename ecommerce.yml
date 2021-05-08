@@ -1,8 +1,8 @@
 token:
-  expiration_time: 76400000 #1일
+  expiration_time: 86400000 #1일
   # echo 'y2gcoder-spring-cloud-jwt-secret-key-y2gcoder-spring-cloud-jwt-secret-key' | base64
   secret: eTJnY29kZXItc3ByaW5nLWNsb3VkLWp3dC1zZWNyZXQta2V5LXkyZ2NvZGVyLXNwcmluZy1jbG91ZC1qd3Qtc2VjcmV0LWtleQo=
 
 gateway:
-  ip: 192.168.25.46
+  ip: 192.168.25.35
   # 후보군: '192.168.0.20', '192.168.1.29'
